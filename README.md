@@ -1,2 +1,2 @@
 # Billiard-SImulation
-A billiard simulation using openGL grpahics and self made physics
+A billiard simulation using openGL grpahics and physics from scratch
